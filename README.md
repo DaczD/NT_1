@@ -1,2 +1,4 @@
 # NT_1
-NT Probs.
+Number Theory Problem Collection.
+--
+### 1.Divisibility
